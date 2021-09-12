@@ -3,6 +3,9 @@
 This project is based of Web Dev Simplified video on 5 useful custom hooks.
 https://www.youtube.com/watch?v=0c6znExIqRw
 
+This site also presents other useful custom hooks.
+https://usehooks.com/
+
 Contributions are always welcome! 🌟
 
 ## Installation and Usage Guide
