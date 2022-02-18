@@ -11,4 +11,4 @@ Contributions are always welcome! 🌟
 ## Installation and Usage Guide
 
 You can copy any hooks on `'src/hooks'` to your project and use them as you like.
-This project was created with create-react-app and also can be runned on your local machine by installing node modules and running `'yarn start'`.
+This project was created with create-react-app and also can be run on your local machine by installing node modules and running `'yarn start'`.
